@@ -3,4 +3,4 @@ layout: default
 ---
 # Contact
 
-### GitHub: [DaMatrix](https://github.com/IceCruelStuff)
+### GitHub: [IceCruelStuff](https://github.com/IceCruelStuff)
